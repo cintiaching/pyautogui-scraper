@@ -9,4 +9,4 @@ It will open the website in the browser and save the rendered source code. Pleas
 
 ## To do
 - Add human-like mouse movement and delays.
-- Adapt daemon process so it can run in the background.
+- Adapt daemon process so that it can run in the background.
