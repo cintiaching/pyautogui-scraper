@@ -1,0 +1,6 @@
+pyautogui
+pyperclip
+beautifulsoup4
+python-dotenv
+pyobjc-core # pyautogui dependency
+pyobjc  # pyautogui dependency
